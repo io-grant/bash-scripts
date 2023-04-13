@@ -1,6 +1,6 @@
 #!/bin/bash
 
-package=htop
+package=notexist
 
 brew install $package >> package_install_results.log
 
