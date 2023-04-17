@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# place your package here
 package=notexist
 
 brew install $package >> package_install_results.log
